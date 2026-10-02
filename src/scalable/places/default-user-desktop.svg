@@ -7,7 +7,7 @@
         color:#ffffff;
       }
       .ColorScheme-Highlight {
-        color:#5294e2;
+        color:#0097a7;
       }</style>
  </defs>
  <rect class="ColorScheme-Highlight" x="2" y="9" width="60" height="46" rx="4" ry="4" fill="currentColor"/>
