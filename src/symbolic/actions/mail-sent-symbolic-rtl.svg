@@ -1,5 +1,1 @@
-<svg width="16" height="16" version="1.1">
- <g transform="translate(-305 -201)">
-  <path d="m320 202v6l-9 1 9 1v6l-14-7z" fill="#565656"/>
- </g>
-</svg>
+<svg width="16" height="16"><path fill="#565656" d="M15 1v6L6 8l9 1v6L1 8z"/></svg>

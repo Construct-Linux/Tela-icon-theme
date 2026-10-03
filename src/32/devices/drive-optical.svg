@@ -1,8 +1,1 @@
-<svg width="32" height="32" version="1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
- <g transform="translate(-1.23 -1.23) scale(.53846)" stroke-width="1.857">
-  <rect transform="matrix(0,-1,-1,0,0,0)" x="-58" y="-58" width="52" height="52" rx="11.144" ry="11.144" fill="#666666"/>
-  <path d="m31.999 13.427a18.571 18.571 0 0 0-18.571 18.571 18.571 18.571 0 0 0 18.571 18.571 18.571 18.571 0 0 0 18.571-18.571 18.571 18.571 0 0 0-18.571-18.571zm0 11.143a7.4286 7.4286 0 0 1 7.4286 7.4286 7.4286 7.4286 0 0 1-7.4286 7.4286 7.4286 7.4286 0 0 1-7.4286-7.4286 7.4286 7.4286 0 0 1 7.4286-7.4286z" fill="#4d4d4d" stroke-width="1.916"/>
-  <circle cx="32" cy="32" r="13" fill="#fff" paint-order="markers stroke fill"/>
-  <circle cx="31.999" cy="31.999" r="9.2857" fill="#ed5f6c" stroke-width="2.1554" paint-order="markers stroke fill"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="32"><g stroke-width="1.857" transform="translate(-1.23 -1.23)scale(.53846)"><rect width="52" height="52" x="-58" y="-58" fill="#666666" rx="11.144" ry="11.144" transform="rotate(90)scale(-1 1)"/><path fill="#4d4d4d" d="M31.999 13.427a18.57 18.57 0 0 0-18.571 18.571 18.57 18.57 0 0 0 18.571 18.571A18.57 18.57 0 0 0 50.57 31.998a18.57 18.57 0 0 0-18.571-18.571m0 11.143a7.43 7.43 0 0 1 7.429 7.429 7.43 7.43 0 0 1-7.429 7.428A7.43 7.43 0 0 1 24.57 32 7.43 7.43 0 0 1 32 24.57"/><circle cx="32" cy="32" r="13" fill="#fff" paint-order="markers stroke fill"/><circle cx="31.999" cy="31.999" r="9.286" fill="#ed5f6c" paint-order="markers stroke fill"/></g></svg>

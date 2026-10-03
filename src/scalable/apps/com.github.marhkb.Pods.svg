@@ -1,14 +1,1 @@
-<svg width="64" height="64" image-rendering="optimizeSpeed" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <rect x="6" y="6" width="52" height="52" rx="8" ry="8" fill="#3d3846" stroke-linecap="round" stroke-width="2.1816" style="paint-order:stroke fill markers"/>
- <g transform="matrix(1.125 0 0 1.125 -3.9999 -3.9999)" stroke-width="1.3333">
-  <rect x="16" y="16" width="31.999" height="31.999" ry="2.6666" fill="#b1b7b9"/>
-  <path d="m18.666 18.666h26.666v9.3331l-13.333 2.6666-13.333-2.6666z" fill="#3b83d8"/>
-  <path d="m18.666 31.999 13.333-2.6666 13.333 2.6666v7.9998l-13.333 5.3332h-1.3333l-12-9.3331z" fill="#443f50"/>
-  <path d="m34.666 30.666h7.9998v9.3331l-3.9999 1.3333-3.9999-1.3333z" fill="#986a44"/>
-  <path d="m18.666 35.999v9.3331h12v-9.3331zm13.333 3.9999v5.3332h13.333v-5.3332z" fill="#b5835a"/>
-  <path d="m18.666 27.999h26.666v3.9999h-26.666z" fill="#ced3d4"/>
-  <path d="m18.666 19.999v1.3333h26.666v-1.3333zm0 2.6666v1.3333h26.666v-1.3333zm0 2.6666v1.3333h26.666v-1.3333z" fill="#ffffff" opacity=".1"/>
-  <path d="m37.332 39.999h2.6666v5.3332h-2.6666z" fill="#ffffff" opacity=".2"/>
-  <rect x="26.666" y="29.332" width="10.666" height="1.3333" ry=".66665" opacity=".3"/>
- </g>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="64" height="64" image-rendering="optimizeSpeed"><rect width="52" height="52" x="6" y="6" fill="#3d3846" rx="8" ry="8" style="paint-order:stroke fill markers"/><g stroke-width="1.333" transform="translate(-4 -4)scale(1.125)"><rect width="31.999" height="31.999" x="16" y="16" fill="#b1b7b9" ry="2.667"/><path fill="#3b83d8" d="M18.666 18.666h26.666v9.333l-13.333 2.667-13.333-2.667z"/><path fill="#443f50" d="m18.666 31.999 13.333-2.667L45.332 32v8l-13.333 5.333h-1.333l-12-9.333z"/><path fill="#986a44" d="M34.666 30.666h8v9.333l-4 1.333-4-1.333z"/><path fill="#b5835a" d="M18.666 35.999v9.333h12V36zm13.333 4v5.333h13.333V40z"/><path fill="#ced3d4" d="M18.666 27.999h26.666v4H18.666z"/><path fill="#ffffff" d="M18.666 19.999v1.333h26.666V20zm0 2.667v1.333h26.666v-1.333zm0 2.666v1.333h26.666v-1.333z" opacity=".1"/><path fill="#ffffff" d="M37.332 39.999h2.667v5.333h-2.667z" opacity=".2"/><rect width="10.666" height="1.333" x="26.666" y="29.332" opacity=".3" ry=".667"/></g></svg>

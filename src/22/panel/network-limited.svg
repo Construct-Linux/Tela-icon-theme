@@ -1,11 +1,6 @@
-<svg version="1.1" viewBox="0 0 22 22" xmlns="http://www.w3.org/2000/svg">
- <style id="current-color-scheme" type="text/css">.ColorScheme-Text {
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 22 22"><style id="current-color-scheme" type="text/css">.ColorScheme-Text {
             color:#dfdfdf;
         }
         .ColorScheme-NegativeText {
             color:#da4453;
-        }</style>
- <path class="ColorScheme-Text" d="m5.002 5.0078s-1 1e-6 -1 1v9c0 1 1 1 1 1h2l1 1h3.8281l1.2402-2.0684-0.068359 0.068359h-4l-1-1h-2v-7h10v3.0527l2 3.332v-7.3848c0-1-1-1-1-1h-12zm11 8.9395v0.060546h-0.041015l-1.1953 1.9922h2.4688l-1.2324-2.0527z" fill="currentColor"/>
- <rect width="22" height="22" fill="none"/>
- <path d="m13 17 3-5 3 5z" fill="#fdbc4b" fill-rule="evenodd"/>
-</svg>
+        }</style><path fill="currentColor" d="M5.002 5.008s-1 0-1 1v9c0 1 1 1 1 1h2l1 1h3.828l1.24-2.069-.068.069h-4l-1-1h-2v-7h10v3.052l2 3.332V6.008c0-1-1-1-1-1zm11 8.94v.06h-.041L14.766 16h2.468z" class="ColorScheme-Text"/><path fill="none" d="M0 0h22v22H0z"/><path fill="#fdbc4b" fill-rule="evenodd" d="m13 17 3-5 3 5z"/></svg>

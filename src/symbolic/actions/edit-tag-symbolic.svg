@@ -1,7 +1,1 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; }</style>
- </defs>
- <path d="m1 1.9999-2e-7 5.6569a1.0001 1.0001 0 0 0 0.29279 0.70711l7.0711 7.0711a1.0001 1.0001 0 0 0 1.4142 0l5.6569-5.6569a1.0001 1.0001 0 0 0 0-1.4142l-7.0711-7.0711a1.0001 1.0001 0 0 0-0.70711-0.29279l-5.6569-1e-7a1.0001 1.0001 0 0 0-0.99989 0.99989zm1.9998 0.99989h4.2426l6.0712 6.0712-4.2426 4.2426-6.0712-6.0712z" color="#000000" fill="#565656" stroke-linecap="round" stroke-linejoin="round" style="-inkscape-stroke:none"/>
- <circle cx="5" cy="5" r="1" fill="#565656" style="paint-order:fill markers stroke"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; }</style></defs><path fill="#565656" stroke-linecap="round" stroke-linejoin="round" d="M1 2v5.657a1 1 0 0 0 .293.707l7.07 7.071a1 1 0 0 0 1.415 0l5.657-5.657a1 1 0 0 0 0-1.414L8.364 1.293A1 1 0 0 0 7.657 1H2a1 1 0 0 0-1 1m2 1h4.242l6.072 6.071-4.243 4.243L3 7.242z" color="#000000" style="-inkscape-stroke:none"/><circle cx="5" cy="5" r="1" fill="#565656" style="paint-order:fill markers stroke"/></svg>

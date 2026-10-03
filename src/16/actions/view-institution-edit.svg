@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
-  <style id="current-color-scheme-3" type="text/css">
-   .ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }
-  </style>
- </defs>
- <path style="fill:currentColor" class="ColorScheme-Text" d="M 8 1 L 0 5 L 2 5 L 2 7 L 3 7 L 3 13 L 2 13 L 2 15 L 3 15 L 10 15 L 10 13 L 9 13 L 9 7 L 11 7 L 11 10 L 13 10 L 13 7 L 14 7 L 14 5 L 16 5 L 8 1 z M 5 7 L 7 7 L 7 13 L 5 13 L 5 7 z M 14.980469 11.003906 C 14.938617 11.012276 14.894251 11.03544 14.849609 11.080078 L 14.214844 11.714844 L 15.285156 12.785156 L 15.919922 12.150391 C 16.098491 11.971822 15.919922 11.792969 15.919922 11.792969 L 15.207031 11.080078 C 15.207031 11.080078 15.106025 10.978797 14.980469 11.003906 z M 13.857422 12.072266 L 11 14.927734 L 11 16 L 12.072266 16 L 14.927734 13.142578 L 13.857422 12.072266 z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#4285f4; } .ColorScheme-NeutralText { color:#ff9800; } .ColorScheme-PositiveText { color:#4caf50; } .ColorScheme-NegativeText { color:#f44336; }</style></defs><path d="M8 1 0 5h2v2h1v6H2v2h8v-2H9V7h2v3h2V7h1V5h2zM5 7h2v6H5zm9.98 4.004a.26.26 0 0 0-.13.076l-.635.635 1.07 1.07.635-.635c.178-.178 0-.357 0-.357l-.713-.713s-.101-.101-.227-.076m-1.123 1.068L11 14.928V16h1.072l2.856-2.857z" class="ColorScheme-Text" style="fill:currentColor"/></svg>

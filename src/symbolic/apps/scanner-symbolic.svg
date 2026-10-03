@@ -1,5 +1,1 @@
-<svg width="16" height="16" version="1.1" xmlns="http://www.w3.org/2000/svg">
- <path d="m3 0c-1.108 0-2 0.892-2 2v12c0 1.108 0.892 2 2 2h10c1.108 0 2-0.892 2-2v-12c0-1.108-0.892-2-2-2h-10zm0 2h10v12h-10v-12z" fill="#565656" stroke-linecap="square" style="paint-order:fill markers stroke"/>
- <rect x="2" y="7" width="12" height="1" fill="#565656" stroke-linecap="square" style="paint-order:fill markers stroke"/>
- <rect x="3" y="7" width="10" height="7" fill="#565656" opacity=".15" stroke-linecap="square" stroke-width="1.1832" style="paint-order:fill markers stroke"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><path fill="#565656" d="M3 0C1.892 0 1 .892 1 2v12c0 1.108.892 2 2 2h10c1.108 0 2-.892 2-2V2c0-1.108-.892-2-2-2zm0 2h10v12H3z" style="paint-order:fill markers stroke"/><path fill="#565656" d="M2 7h12v1H2z" style="paint-order:fill markers stroke"/><path fill="#565656" d="M3 7h10v7H3z" opacity=".15" style="paint-order:fill markers stroke"/></svg>

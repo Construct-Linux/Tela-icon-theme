@@ -1,11 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">
-   .ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }
-  </style>
- </defs>
- <circle style="fill:currentColor" class="ColorScheme-Text" cx="3" cy="8" r="2"/>
- <circle style="fill:currentColor" class="ColorScheme-Text" cx="8" cy="8" r="2"/>
- <circle style="fill:currentColor" class="ColorScheme-Text" cx="13" cy="8" r="2"/>
- <path style="opacity:0.3;fill:currentColor" class="ColorScheme-Text" d="M 8,2 C 4.9494,2 2.0806,3.0732 0,5 H 16 C 13.919,3.0731 11.051,2 8,2 Z M 5.334,11 8,14 10.666,11 Z"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" width="16" height="16"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#dfdfdf; } .ColorScheme-Highlight { color:#4285f4; }</style></defs><circle cx="3" cy="8" r="2" class="ColorScheme-Text" style="fill:currentColor"/><circle cx="8" cy="8" r="2" class="ColorScheme-Text" style="fill:currentColor"/><circle cx="13" cy="8" r="2" class="ColorScheme-Text" style="fill:currentColor"/><path d="M8 2C4.95 2 2.08 3.073 0 5h16c-2.081-1.927-4.949-3-8-3m-2.666 9L8 14l2.666-3Z" class="ColorScheme-Text" style="opacity:0.3;fill:currentColor"/></svg>

@@ -1,7 +1,1 @@
-<svg width="22" height="22" version="1.1">
- <defs>
-  <style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#0097a7; }</style>
- </defs>
- <path d="m5.5 5c-0.831 0-1.5 0.669-1.5 1.5v8.5c0 1.108 0.892 2 2 2h7.0508a3.5 3.5 0 0 1-1.0137-2h-6.0371v-6h10v2.0352a3.5 3.5 0 0 1 2 1.0156v-3.0508c0-1.108-0.892-2-2-2h-5l-2-2h-3.5z" class="ColorScheme-Text" fill="currentColor"/>
- <path d="m15.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5zm-0.5 1h1v1h1v1h-1v1h-1v-1h-1v-1h1z" class="ColorScheme-Text" fill="currentColor"/>
-</svg>
+<svg width="22" height="22"><defs><style id="current-color-scheme" type="text/css">.ColorScheme-Text { color:#565656; } .ColorScheme-Highlight { color:#0097a7; }</style></defs><path fill="currentColor" d="M5.5 5C4.669 5 4 5.669 4 6.5V15c0 1.108.892 2 2 2h7.05a3.5 3.5 0 0 1-1.013-2H6V9h10v2.035a3.5 3.5 0 0 1 2 1.016V9c0-1.108-.892-2-2-2h-5L9 5z" class="ColorScheme-Text"/><path fill="currentColor" d="M15.5 12a2.5 2.5 0 0 0-2.5 2.5 2.5 2.5 0 0 0 2.5 2.5 2.5 2.5 0 0 0 2.5-2.5 2.5 2.5 0 0 0-2.5-2.5m-.5 1h1v1h1v1h-1v1h-1v-1h-1v-1h1z" class="ColorScheme-Text"/></svg>
