@@ -1,6 +1,6 @@
 #!/bin/sh
-# Installs Tela, Tela-dark and Tela-light. Tela holds every icon; the dark and light variants
-# carry only the icons they recolor and link the rest to Tela.
+# Installs Tela and Tela-dark. Tela holds every icon; Tela-dark carries only the icons it
+# recolors and links the rest to Tela.
 #
 # POSIX sh and busybox are enough: the links are written relative by hand, since busybox's ln
 # has no -r. No icon cache is built: GTK reads a theme without one, and a distribution bakes
@@ -20,7 +20,7 @@ usage() {
   cat << EOF
 Usage: $0 [OPTION]...
 
-Installs ${NAME}, ${NAME}-dark and ${NAME}-light.
+Installs ${NAME} and ${NAME}-dark.
 
 OPTIONS:
   -d DIR    Destination directory (default: ${DEST_DIR})
@@ -94,25 +94,6 @@ install_dark() {
   hidpi_links
 }
 
-install_light() {
-  begin light
-  for size in 16 22 24; do
-    mkdir -p "${dir}/${size}"
-    cp -R "${SRC_DIR}/src/${size}/panel" "${dir}/${size}"
-  done
-
-  # The panel's light grey darkened, to read on a light top bar.
-  sed -i "s/#dfdfdf/#505050/g" "${dir}"/16/panel/*.svg "${dir}"/22/panel/*.svg \
-    "${dir}"/24/panel/*.svg
-
-  for size in 16 22 24; do
-    cp -RP "${SRC_DIR}/links/${size}/panel" "${dir}/${size}"
-  done
-
-  link_rest
-  hidpi_links
-}
-
 uninstall=false
 while [ $# -gt 0 ]; do
   case "$1" in
@@ -125,11 +106,10 @@ while [ $# -gt 0 ]; do
 done
 
 if [ "${uninstall}" = true ]; then
-  rm -rf "${DEST_DIR}/${NAME}" "${DEST_DIR}/${NAME}-dark" "${DEST_DIR}/${NAME}-light"
+  rm -rf "${DEST_DIR}/${NAME}" "${DEST_DIR}/${NAME}-dark"
   exit 0
 fi
 
-echo "Installing ${NAME}, ${NAME}-dark and ${NAME}-light in ${DEST_DIR}"
+echo "Installing ${NAME} and ${NAME}-dark in ${DEST_DIR}"
 install_tela
 install_dark
-install_light

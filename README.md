@@ -17,8 +17,8 @@ CONSTRUCT ships.
 ./install.sh -r                       # remove
 ```
 
-It installs three themes: `Tela`, `Tela-dark` (light icons for a dark interface) and
-`Tela-light` (dark top bar icons for a light one). It needs only a POSIX shell and busybox.
+It installs two themes: `Tela` and `Tela-dark` (light icons for a dark interface). It needs
+only a POSIX shell and busybox.
 
 ## License
 
