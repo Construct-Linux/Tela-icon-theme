@@ -74,12 +74,12 @@ install_dark() {
     cp -R "${SRC_DIR}/src/${size}/actions" "${SRC_DIR}/src/${size}/devices" \
       "${SRC_DIR}/src/${size}/places" "${dir}/${size}"
   done
-  cp -R "${SRC_DIR}/src/symbolic" "${dir}"
 
   # The greys lightened, to read on a dark background. Before the links are copied, so sed
-  # rewrites only real files.
+  # rewrites only real files. symbolic/ stays Tela's: GTK and St fill every shape of a
+  # -symbolic icon with the foreground color, whatever grey the file holds.
   sed -i "s/#565656/#aaaaaa/g" "${dir}"/16/actions/*.svg "${dir}"/22/actions/*.svg \
-    "${dir}"/24/actions/*.svg "${dir}"/symbolic/*/*.svg
+    "${dir}"/24/actions/*.svg
   sed -i "s/#727272/#aaaaaa/g" "${dir}"/16/places/*.svg "${dir}"/22/places/*.svg \
     "${dir}"/24/places/*.svg "${dir}"/16/devices/*.svg "${dir}"/22/devices/*.svg \
     "${dir}"/24/devices/*.svg
@@ -88,7 +88,6 @@ install_dark() {
     cp -RP "${SRC_DIR}/links/${size}/actions" "${SRC_DIR}/links/${size}/devices" \
       "${SRC_DIR}/links/${size}/places" "${dir}/${size}"
   done
-  cp -RP "${SRC_DIR}/links/symbolic" "${dir}"
 
   link_rest
   hidpi_links
